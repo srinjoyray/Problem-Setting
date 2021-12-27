@@ -1,0 +1,2 @@
+Problem Link : https://www.codechef.com/problems/SGIFT
+Editorial Link : https://discuss.codechef.com/t/sgift-editorial/97368

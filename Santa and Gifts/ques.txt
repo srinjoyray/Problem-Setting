@@ -1,0 +1,3 @@
+There are N(1e5) children whose goodness level is given by an array a (1<=a[i]<=1e9). Santa gives each child b[i] coins (1<=b[i]<=N) . A child who has more goodness level should receive more coins, same goodness level should receive same coins and less goodness level should receive fewer coins.
+Print the number of ways in which Santa can distribute the coins among the N children.(%1e9+7)
+Also, print the array b such that the number of coins spent by Santa is maximum

@@ -1,0 +1,2 @@
+Problem Link : https://www.codechef.com/problems/CFACTOR
+Editorial Link : https://discuss.codechef.com/t/cfactor-editorial/97378
